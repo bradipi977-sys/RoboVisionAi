@@ -29,7 +29,7 @@ Python과 OpenAI VLM API를 활용하여 배송 로봇 주변 환경 이미지�
 
 ① GitHub 저장소 다운로드
 
-git clone https://github.com/사용자명/RoboVisionAI.git
+git clone https://github.com/bradipi977-sys/RoboVisionAI.git
 cd RoboVision-AI
 
 ② 라이브러리 설치
